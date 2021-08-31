@@ -1,0 +1,5 @@
+Bundle-Name: call-me
+Bundle-SymbolicName: call.me
+Bundle-Version: 1.0.0
+Export-Package: call.me.constants
+Import-Package: !org.apache.avalon.framework.logger,!org.apache.log,!org.bouncycastle.*,*
