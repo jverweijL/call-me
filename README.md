@@ -1,4 +1,10 @@
-# ${My Projects's Name}
+# CallMe
+
+A basic idea I got while preparing a demo.
+Sometimes customers want to be called back.
+A simple button should be enough if they are logged into the customer portal.
+We know who they are, we know their phonenumber.
+If you have a bunch of CSR's they can use the workflow to assign the callback action to themselves or someone else.
 
 A basic description of my project.
 
